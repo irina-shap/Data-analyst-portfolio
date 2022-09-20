@@ -1,3 +1,3 @@
 # Data-analyst-portfolio
 В данном портфолио собраны проекты, которые выполнялись во время обучения в Яндекс.Практикуме.
-Все работы выполнены в Jupyter Notebook с использованием следующих библиотек: pandas, numpy, matplotlib, 
+Все работы реализованы через Jupyter Notebook с использованием следующих библиотек: pandas, numpy, matplotlib, plotly, scipy.
